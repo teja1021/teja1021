@@ -4,5 +4,5 @@ Hi, I’m @teja1021
 💞️ Open to collaborating on web development projects
 📫 Reach me at: tejavarma1021@gmail.com
 😄 Pronouns: him
-⚡ Fun fact: I’m preparing to be a Full-Stack Developer and love solving bugs and figuring out project issues!
+⚡ Fun fact: I’m preparing to be a Full-Stack Developer and love solving bugs and solving out project issues!
 
