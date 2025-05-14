@@ -8,7 +8,7 @@
 🌱 _"First solve the problem, then write the code" - John Johnson_
 
 [![Visitors](https://komarev.com/ghpvc/?username=teja1021&color=00FF00&label=Cosmic+Visitors)](https://github.com/teja1021)
-[![GitHub Streak](https://streak-stats.demolab.com?user=teja1021&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
+
 
 
 
